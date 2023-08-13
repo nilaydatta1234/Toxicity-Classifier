@@ -22,3 +22,21 @@
 
 ## Dataset Used
 [Kaggle Dataset Link](https://www.kaggle.com/datasets/julian3833/jigsaw-toxic-comment-classification-challenge?select=train.csv)
+
+## To DO
+- Visualization (Corelation matrix, Result Toxicity percentage, acc - validation acc graph)
+- Implementing Bert
+
+## Categorization of Work
+- Visualization
+- PreProcessing for LSTM
+- LSTM Model
+- Prediction using LSTM Model
+- PreProcessing for Bert
+- BERT Model
+- Prediction using Bert Model
+
+## Work Division
+- Krrish (Visualization, Predictions for LSTM and Bert)
+- Nilay (PreProcessing for LSTM, LSTM Model)
+- Shivansh (PreProcessing for Bert, Bert Model)
