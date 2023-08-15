@@ -1,0 +1,8 @@
+pandas
+numpy
+tensorflow==2.13
+nvidia-cudnn-cu11==8.6.0.163
+matplotlib
+torch
+transformers
+scikit-learn
